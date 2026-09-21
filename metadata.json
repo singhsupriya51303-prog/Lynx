@@ -1,0 +1,10 @@
+{
+  "name": "LYNK",
+  "description": "India’s market, connected. Intelligent local commerce ecosystem connecting physical shops, inventory discovery, price comparison, live maps, reservations, and pickup/delivery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
